@@ -23,4 +23,4 @@ I'm a **Software Engineer** focused on building robust, scalable backend systems
 
 ### 📫 Connect with me
 
-* **GitHub:** [@robertsmith](https://github.com/obertsmith04)
+* **GitHub:** [@obertsmith04](https://github.com/obertsmith04)
